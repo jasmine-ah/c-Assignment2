@@ -1,1 +1,2 @@
-# c-Assignment2
+# cSharpAssignment2
+# simple student mark grading system
